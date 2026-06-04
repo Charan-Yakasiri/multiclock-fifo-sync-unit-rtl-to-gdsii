@@ -137,7 +137,7 @@ GDSII Generation
 
 ## Demo Video
 
-[▶ RTL-to-GDSII Flow Demo](docs/rtl_to_gdsii_demo.gif)
+![RTL-to-GDSII Flow Demo](docs/demo.gif)
 
 ## Implementation Statistics
 
