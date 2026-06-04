@@ -113,27 +113,31 @@ GDSII Generation
 
 ### Floorplan
 
-![Floorplan](docs/images/floorplan.png)
+![Floorplan](docs/images/Floorplan.png)
 
 ---
 
 ### Power Planning
 
-![Power Plan](docs/images/powerplan.png)
+![Power Plan](docs/images/Powerplanning.png)
 
 ---
 
 ### Placement
 
-![Placement](docs/images/placement.png)
+![Placement](docs/images/Placement.png)
 
 ---
 
 ### Routing
 
-![Routing](docs/images/routing.png)
+![Routing](docs/images/Routing.png)
 
 ---
+
+## Demo Video
+
+[▶ RTL-to-GDSII Flow Demo](docs/rtl_to_gdsii_demo.webm)
 
 ## Implementation Statistics
 
